@@ -1,4 +1,4 @@
-package java.springboot_d1.model;
+package spring.springboot_d1.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

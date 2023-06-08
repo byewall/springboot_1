@@ -1,6 +1,6 @@
-package java.springboot_d1.service;
+package spring.springboot_d1.service;
 
-import java.springboot_d1.model.Employee;
+import spring.springboot_d1.model.Employee;
 import java.util.ArrayList;
 import java.util.List;
 
