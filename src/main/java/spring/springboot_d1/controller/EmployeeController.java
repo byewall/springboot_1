@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 // RequestMapping
 // GetMapping (Retrieve list/single objects)
 // PostMapping (Update an existing object)
-// DeletMapping (Delete an object from a list/db)
+// DeleteMapping (Delete an object from a list/db)
 
 @Controller
 @RequestMapping(path="/employees")

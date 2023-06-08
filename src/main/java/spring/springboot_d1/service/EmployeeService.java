@@ -12,7 +12,7 @@ public class EmployeeService {
     public EmployeeService(){
         employees.add(new Employee("1", "hsien long", "lee"));
         employees.add(new Employee("1", "Derrick", "Tan"));
-        employees.add(new Employee("3", "maverick", "tan"));
+        employees.add(new Employee("3", "maverick", "Tan"));
     }
 
     public List<Employee> getAllEmployees(){
